@@ -1,0 +1,17 @@
+[
+    {
+      "color": "#dd80cc",
+      "dopname": "(В ЗБТ)",
+      "maxonline": 100,
+      "name": "Krasnagorsk",
+      "online": 57
+    },
+   {
+      "color": "dd80cc",
+      "dopname": "(ЗАКРЫТО)",
+      "maxonline": 0,
+      "name": "TEST",
+      "online": 0
+    }
+]
+
